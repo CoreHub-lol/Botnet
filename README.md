@@ -1,3 +1,3 @@
-C# Client and Server
+# C# Client and Server
 
-TCP Connection on port 6969
+#### TCP Connection on port 6969
