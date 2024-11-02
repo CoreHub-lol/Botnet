@@ -1,0 +1,14 @@
+C:\Users\dario\source\repos\NullBot\NullServer\bin\Release\NullServer.exe.config
+C:\Users\dario\source\repos\NullBot\NullServer\bin\Release\NullServer.exe
+C:\Users\dario\source\repos\NullBot\NullServer\bin\Release\NullServer.pdb
+C:\Users\dario\source\repos\NullBot\NullServer\obj\Release\NullServer.csproj.AssemblyReference.cache
+C:\Users\dario\source\repos\NullBot\NullServer\obj\Release\NullServer.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\NullBot\NullServer\obj\Release\NullServer.exe
+C:\Users\dario\source\repos\NullBot\NullServer\obj\Release\NullServer.pdb
+C:\Users\dario\Documents\GitHub\BotNet\NullServer\bin\Release\NullServer.exe.config
+C:\Users\dario\Documents\GitHub\BotNet\NullServer\bin\Release\NullServer.exe
+C:\Users\dario\Documents\GitHub\BotNet\NullServer\bin\Release\NullServer.pdb
+C:\Users\dario\Documents\GitHub\BotNet\NullServer\obj\Release\NullServer.csproj.AssemblyReference.cache
+C:\Users\dario\Documents\GitHub\BotNet\NullServer\obj\Release\NullServer.csproj.CoreCompileInputs.cache
+C:\Users\dario\Documents\GitHub\BotNet\NullServer\obj\Release\NullServer.exe
+C:\Users\dario\Documents\GitHub\BotNet\NullServer\obj\Release\NullServer.pdb
