@@ -23,7 +23,7 @@ namespace NullServer
 
                 server.BroadcastLine("Loaded " + Program.name);
                 server.BroadcastLine(" Version: " + Program.version);
-                server.BroadcastLine(" Made by PublicCode and GameDevv");
+                server.BroadcastLine(" Made by JoinException");
 
                 
                 server.ClientConnected += (sender, client) =>
