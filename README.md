@@ -24,7 +24,7 @@ Works on any system with a .NET or compatible framework installed.
 
 The client does not add itself to autostart mechanisms or modify system files, ensuring it is non-intrusive.
 
-Requirements
+# Requirements
 
 ### Server:
 
@@ -38,7 +38,7 @@ A computer running the C# client application.
 
 TCP access to the server on port 6969.
 
-### How to Use:
+# How to Use:
 
 Setting Up the Server
 
@@ -56,7 +56,7 @@ Run the client application on the target machine.
 
 The client will attempt to connect to the server on port 6969.
 
-### Sending Commands
+# Sending Commands
 
 Once the client connects to the server, you can send shell commands from the server.
 
