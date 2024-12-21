@@ -82,7 +82,7 @@ Executes received commands using the system shell.
 
 Sends command output back to the server.
 
-### Security Considerations
+# Security Considerations
 
 Intended Use: This project is intended for legal and ethical purposes only, such as network security testing or educational purposes.
 
@@ -90,7 +90,7 @@ No Autostart: The client does not install itself or persist in the system.
 
 Network Access: Ensure the port 6969 is open only in secure environments to avoid unauthorized connections.
 
-### Disclaimer
+# Disclaimer
 
 This project must be used responsibly and within the bounds of the law. Misuse of this tool for unauthorized access or malicious purposes is strictly prohibited and may result in legal consequences. Always obtain proper authorization before using this tool on any system.
 
