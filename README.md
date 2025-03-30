@@ -1,6 +1,6 @@
 # C# Botnet Project (NullBotnet)
 
-This project implements a client-server architecture using TCP communication on port `6969`. It is designed for ethical and legal purposes only, such as testing network systems or learning about TCP communication in a controlled environment.
+This project implements a client-server architecture using TCP communication on port `6969`. It is designed for ethical and legal purposes only, such as testing network systems or learning about TCP communication in a controlled environment. This is only a Botnet Base
 
 ## Features
 
