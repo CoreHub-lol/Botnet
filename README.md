@@ -67,5 +67,5 @@ This project implements a client-server architecture using TCP communication on 
 
 ## Disclaimer
 This project must be used responsibly and within the bounds of the law. Misuse of this tool for unauthorized access or malicious purposes is strictly prohibited and may result in legal consequences. Always obtain proper authorization before using this tool on any system.
-## Contributers (Skids)
+## Contributers
 - Drxem
